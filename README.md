@@ -1,6 +1,6 @@
 
-# Welcome To my Github.
-## It's not much, but it's a descent job.
+# Welcome To my Github profile.
+## it's not much but it's honest work.
 
 - 👋 Hi, I’m @GabrielGauss from Argentina, currently based in Italy.
 - 👀 I’m interested in learning and collaborate i this community.
